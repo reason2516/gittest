@@ -1,2 +1,1 @@
 this is the first test file of my own computer
-test git-cola;
