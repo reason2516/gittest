@@ -1,2 +1,0 @@
-this is a test file of newbranch;
-I'll try to push a new local branch to remote branch;
